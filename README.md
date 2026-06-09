@@ -456,7 +456,7 @@ h2 {
             <h1>Clear the jelly.</h1>
           </div>
           <button id="newGame" class="icon-text-button" type="button" aria-label="Start a new game">
-            <span aria-hidden="true">â†»</span>
+            <span aria-hidden="true">new</span>
             New
           </button>
         </header>
