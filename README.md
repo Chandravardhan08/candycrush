@@ -444,7 +444,6 @@ h2 {
     grid-template-columns: 1fr;
   }
 }
-
     </style>
   </head>
   <body>
@@ -456,11 +455,10 @@ h2 {
             <h1>Clear the jelly.</h1>
           </div>
           <button id="newGame" class="icon-text-button" type="button" aria-label="Start a new game">
-            <span aria-hidden="true">new</span>
+            <span aria-hidden="true"></span>
             New
           </button>
         </header>
-
         <section class="stats" aria-label="Game stats">
           <article>
             <span>Score</span>
